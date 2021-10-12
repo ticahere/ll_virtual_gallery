@@ -1,0 +1,33 @@
+{"Objects":
+[
+    {
+        "Title": "IMMERSIVE STORYTELLING USING MIXED MEDIA",
+        "Subtitle": "TDM 169L",
+        "Description": "The capstone project for Young Joo Lee's TDM 169L course utilized software for video game design and 3D modeling. The Learning Lab developed and facilitated workshops for students on how to effectively use the software and set up a virtual reality headset that students could use while creating and testing their designs.",
+        "Placement": 1,
+        "url": "mixed_reality"
+    },
+    {
+        "Title": "DISPATCHES FROM THE FIELD: TEACHING INNOVATION VIDEOS",
+        "Subtitle": "OEB119: Deep Sea Bio",
+        "Description": "In collaboration with Girguis, the Bok Center worked with a number of faculty to develop videos about similarly innovative projects they had in mind for students in the fall. Girguis spoke with us about his plans for OEB119: Deep Sea Bio, and we spoke to several more faculty members, including Marianna Linz about using physical kits for EPS129: Climate and Atmospheric Physics Laboratory, and Alex Rehding about the lessons of the most remote of musical objects, the Voyager Golden Record.",
+        "Placement": 2,
+        "url": "video"
+    },
+    {
+        "Title": "EXPLORE THE GOLDEN RECORD",
+        "Subtitle": "GENED 1006: Music From Earth",
+        "Description": "In 1977 humanity sent a mixtape into outer space. The two spacecraft of NASA’s Voyager mission include a Golden Record, featuring greetings in 55 earth languages, 116 images of the planet and its inhabitants, plus examples of music from a range of cultures across the world: from Azerbaijani bagpipes to Zaire pygmy songs, from English Renaissance dances to Stravinsky’s Rite of Spring, and from Louis Armstrong to Chuck Berry.",
+        "Placement": 3,
+        "url": "golden_record_cover"
+    }
+    ,
+    {
+        "Title": "SUPPORTING THESIS WRITERS WITH THE ARC",
+        "Subtitle": "",
+        "Description": "Over the years, the Bok Center has worked with academics at various stages of their careers who are trying to summarize large scale research projects in short compressed bits of time, particularly through our support of Harvard Horizons and the Star Friedman Challenge. Supporting senior thesis writers is a perfect extension of this work, and in January, the Learning Lab was invited by Harvard’s Academic Resource Center (ARC) to offer a pitch workshop as part of the ARC’s first Senior Thesis Writers Retreat.",
+        "Placement": 4,
+        "url": "arc"
+    }
+]
+}
