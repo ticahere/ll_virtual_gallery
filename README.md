@@ -1,12 +1,15 @@
 # ll_virtual_gallery
 This project is an template to create a Virtual Gallery in Unity. 
 
+ ![Result image](/Images/snapshot.png)
+
+
 **VR Gallery scene**: In the `VR Gallery`, you can walk around the indoor exhibit with first-person control (mouse + arrow key). The art descriptions are shown when you approach an art work on the wall.
 
 **Update your own art**: You can easily add your own art pieces by putting the images into `Resources` folder and the art description in `Scripts/data_list.json` file.
 
 
-## Packages used
+## Packages
 1. This project is adapted from Unity tutorial
 https://learn.unity.com/project/create-a-personal-3d-gallery-project-with-unity 
 
